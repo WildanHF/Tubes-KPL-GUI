@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Main.Model
 {
-    internal class Akun
+    public class Akun
     {
         public string Username { get; set; }
 

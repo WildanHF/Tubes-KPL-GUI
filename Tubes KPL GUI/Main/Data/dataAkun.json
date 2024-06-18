@@ -1,3 +1,16 @@
 [
+  {
+    "Username": "ojan1",
+    "Nama": "ojan",
+    "Password": "123456",
+    "Role": "User"
+  },
+
+  {
+    "Username": "wildan2",
+    "Nama": "wildan",
+    "Password": "Admin",
+    "Role": "Admin"
+  }
 
 ]

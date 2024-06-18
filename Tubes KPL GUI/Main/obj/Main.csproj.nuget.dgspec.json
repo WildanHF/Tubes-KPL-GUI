@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj": {}
+    "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj": {}
   },
   "projects": {
-    "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj": {
+    "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj",
-        "packagesPath": "C:\\Users\\N4NRC\\.nuget\\packages\\",
-        "outputPath": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\obj\\",
+        "projectPath": "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
+        "packagesPath": "C:\\Users\\nabiel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\N4NRC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nabiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
