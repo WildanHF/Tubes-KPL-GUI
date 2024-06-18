@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\N4NRC\\.nuget\\packages\\": {}
+    "C:\\Users\\Wildan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Views\\Views.csproj",
+      "projectUniqueName": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Views\\Views.csproj",
       "projectName": "Views",
-      "projectPath": "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Views\\Views.csproj",
-      "packagesPath": "C:\\Users\\N4NRC\\.nuget\\packages\\",
-      "outputPath": "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Views\\obj\\",
+      "projectPath": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Views\\Views.csproj",
+      "packagesPath": "C:\\Users\\Wildan\\.nuget\\packages\\",
+      "outputPath": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Views\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\N4NRC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wildan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Main.csproj": {
-              "projectPath": "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Main.csproj"
+            "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj": {
+              "projectPath": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj"
             }
           }
         }
