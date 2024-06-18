@@ -3,31 +3,31 @@
   "WorkspaceRootPath": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\main\\data\\datahp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\data\\datahp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\model\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\main\\model\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\model\\hp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED1AD0F-01CF-4C7F-AB17-003163CD0E14}|View\\View.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED1AD0F-01CF-4C7F-AB17-003163CD0E14}|View\\View.csproj|solutionrelative:view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\data\\datahp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\data\\datahp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|d:\\tubes gui kpl\\v1\\tubes kpl gui\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -38,24 +38,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\View\\Program.cs",
-              "RelativeDocumentMoniker": "View\\Program.cs",
-              "ToolTip": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\View\\Program.cs",
-              "RelativeToolTip": "View\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:11:00.098Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Views\\Form1.cs",
+              "RelativeDocumentMoniker": "Views\\Form1.cs",
+              "ToolTip": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Views\\Form1.cs [Design]",
+              "RelativeToolTip": "Views\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:55:02.799Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "dataHp.json",
               "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Data\\dataHp.json",
               "RelativeDocumentMoniker": "Main\\Data\\dataHp.json",
@@ -76,12 +83,11 @@
               "RelativeToolTip": "Main\\Data\\dataAkun.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T06:09:23.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:09:23.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Hp.cs",
               "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Model\\Hp.cs",
               "RelativeDocumentMoniker": "Main\\Model\\Hp.cs",
@@ -89,12 +95,11 @@
               "RelativeToolTip": "Main\\Model\\Hp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:05:42.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:05:42.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Akun.cs",
               "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Model\\Akun.cs",
               "RelativeDocumentMoniker": "Main\\Model\\Akun.cs",
@@ -102,20 +107,11 @@
               "RelativeToolTip": "Main\\Model\\Akun.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:05:32.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-06-18T06:05:32.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Program.cs",
               "RelativeDocumentMoniker": "Main\\Program.cs",
@@ -129,7 +125,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Main",
+              "Title": "Main.csproj",
               "DocumentMoniker": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj",
               "RelativeDocumentMoniker": "Main\\Main.csproj",
               "ToolTip": "D:\\Tubes GUI KPL\\V1\\Tubes KPL GUI\\Main\\Main.csproj",
