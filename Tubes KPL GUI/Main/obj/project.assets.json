@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
+      "projectUniqueName": "C:\\Users\\Wildan\\source\\repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
+      "projectPath": "C:\\Users\\Wildan\\source\\repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Main.csproj",
       "packagesPath": "C:\\Users\\Wildan\\.nuget\\packages\\",
-      "outputPath": "D:\\SEMESTER 4\\PRAK KPL\\KPL GUI\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\obj\\",
+      "outputPath": "C:\\Users\\Wildan\\source\\repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wildan\\AppData\\Roaming\\NuGet\\NuGet.Config",
