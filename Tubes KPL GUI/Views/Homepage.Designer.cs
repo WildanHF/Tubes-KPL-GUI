@@ -44,6 +44,7 @@
             label1.Size = new Size(241, 53);
             label1.TabIndex = 0;
             label1.Text = "Gudang Hp";
+            label1.Click += label1_Click;
             // 
             // button1
             // 

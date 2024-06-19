@@ -97,7 +97,7 @@ namespace Views
 
         public List<Akun> ReadJSON()
         {
-            string filePathDataAkun = "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
             List<Akun> dataAkun = new List<Akun>();
             try
             {
@@ -113,7 +113,7 @@ namespace Views
         }
         private void WriteJSON(List<Akun> newDataBarang)
         {
-            string filePathDataAkun = "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
@@ -121,6 +121,11 @@ namespace Views
 
             string jsonString = JsonSerializer.Serialize(newDataBarang, options);
             File.WriteAllText(filePathDataAkun, jsonString);
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

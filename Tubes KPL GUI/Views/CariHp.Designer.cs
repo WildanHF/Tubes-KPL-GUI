@@ -123,6 +123,7 @@
             namaBarangInput.Name = "namaBarangInput";
             namaBarangInput.Size = new Size(341, 27);
             namaBarangInput.TabIndex = 16;
+            namaBarangInput.TextChanged += namaBarangInput_TextChanged;
             // 
             // label2
             // 

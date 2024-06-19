@@ -4,19 +4,18 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.IO; 
 using System.Linq;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Main.Model;
 
-namespace Views
+namespace View
 {
     public partial class HomepageUser : Form
     {
-        public string fileDataPathHp = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\datahp.json";
-        private DataGridView dataGridView1; 
+        public string fileDataPathBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
 
         public HomepageUser()
         {
@@ -26,16 +25,17 @@ namespace Views
 
         private void PopulateDataGridView()
         {
-            List<Hp> daftarHp = ReadJsonFile(fileDataPathHp);
-            foreach (Hp hp in daftarHp)
+            List<Hp> daftarHp = ReadJsonFile(fileDataPathBarang);
+
+            foreach (var hp in daftarHp)
             {
-                dataGridView1.Rows.Add(hp.KodeBarang, hp.NamaBarang, hp.JumlahBarang, hp.HargaBarang); // Change add to Add
+                dataGridView1.Rows.Add(hp.KodeBarang, hp.NamaBarang, hp.JumlahBarang, hp.HargaBarang);
             }
         }
 
         private List<Hp> ReadJsonFile(string filePath)
         {
-            List<Hp> daftarHp = new List<Hp>();
+            List<Hp> daftarhp = new List<Hp>();
 
             try
             {
@@ -50,7 +50,7 @@ namespace Views
                     json = reader.ReadToEnd();
                 }
 
-                daftarHp = JsonSerializer.Deserialize<List<Hp>>(json);
+                daftarhp = JsonSerializer.Deserialize<List<Hp>>(json);
             }
             catch (FileNotFoundException ex)
             {
@@ -65,7 +65,7 @@ namespace Views
                 MessageBox.Show($"Error reading JSON file: {ex.Message}");
             }
 
-            return daftarHp;
+            return daftarhp;
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -78,14 +78,12 @@ namespace Views
                 int jumlahBarang = Convert.ToInt32(row.Cells[2].Value);
                 int hargaBarang = Convert.ToInt32(row.Cells[3].Value);
 
-                Hp barang = new Hp(namaBarang, kodeBarang, jumlahBarang, hargaBarang);
-                // Do something with the Hp object
+                Hp hp = new Hp(namaBarang, kodeBarang, jumlahBarang, hargaBarang);
+
+
             }
         }
 
-        private void HomepageUser_Load(object sender, EventArgs e) // Move this method inside the class
-        {
-            // Handle form load event
-        }
+
     }
 }

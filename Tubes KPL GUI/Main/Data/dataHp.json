@@ -4,5 +4,11 @@
     "KodeBarang": 11,
     "JumlahBarang": 1,
     "HargaBarang": 23
+  },
+  {
+    "NamaBarang": "samsung",
+    "KodeBarang": 12,
+    "JumlahBarang": 10,
+    "HargaBarang": 1000
   }
 ]

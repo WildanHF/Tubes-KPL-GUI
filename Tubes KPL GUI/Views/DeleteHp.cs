@@ -69,7 +69,7 @@ namespace Views
         }
         private void WriteJSON(List<Hp> newDataHandPhone)
         {
-            string filePathDataHandPhone = "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataHandPhone = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
@@ -93,6 +93,11 @@ namespace Views
         }
 
         private void inputNamaHandPhone_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void inputNamaBarang_TextChanged(object sender, EventArgs e)
         {
 
         }

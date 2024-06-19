@@ -56,7 +56,7 @@ namespace Views
         }
         public List<Hp> ReadJSON()
         {
-            string filePathDataBarang = "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             List<Hp> DataBarang = new List<Hp>();
             try
             {
@@ -73,7 +73,7 @@ namespace Views
 
         private void WriteJSON(List<Hp> newDataBarang)
         {
-            string filePathDataBarang = "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
@@ -94,6 +94,11 @@ namespace Views
                 }
             }
             return false;
+        }
+
+        private void inputNamaBarang_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

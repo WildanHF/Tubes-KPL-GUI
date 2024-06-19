@@ -5,12 +5,16 @@
     "Password": "123456",
     "Role": "User"
   },
-
   {
     "Username": "wildan2",
     "Nama": "wildan",
     "Password": "Admin",
     "Role": "Admin"
+  },
+  {
+    "Username": "ojanjs",
+    "Nama": "Fauzan",
+    "Password": "123456",
+    "Role": "User"
   }
-
 ]
