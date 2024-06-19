@@ -51,7 +51,7 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nama, Kode, Jumlah, Harga });
-            dataGridView1.Location = new Point(171, 128);
+            dataGridView1.Location = new Point(168, 123);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(550, 341);

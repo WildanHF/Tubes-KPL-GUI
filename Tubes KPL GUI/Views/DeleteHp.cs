@@ -53,7 +53,7 @@ namespace Views
         }
         public List<Hp> ReadJSON()
         {
-            string filePathDataHandPhone = "D:\\Tubes GUI KPL\\V2\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataHandPhone = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             List<Hp> DataHandPhone = new List<Hp>();
             try
             {
@@ -69,7 +69,7 @@ namespace Views
         }
         private void WriteJSON(List<Hp> newDataHandPhone)
         {
-            string filePathDataHandPhone = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataHandPhone = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
