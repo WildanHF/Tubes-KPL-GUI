@@ -14,7 +14,7 @@ namespace Views
 {
     public partial class TabelHp : Form
     {
-        public string fileDataPathBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+        public string fileDataPathBarang = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
 
         public TabelHp()
         {
@@ -28,7 +28,7 @@ namespace Views
 
             foreach (var barang in daftarBarang)
             {
-                dataGridView1.Rows.Add(barang.KodeBarang, barang.NamaBarang, barang.JumlahBarang, barang.HargaBarang);
+                dataGridView1.Rows.Add(barang.NamaBarang, barang.KodeBarang, barang.JumlahBarang, barang.HargaBarang);
             }
         }
 

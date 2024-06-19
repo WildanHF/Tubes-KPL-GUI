@@ -15,7 +15,7 @@ namespace View
 {
     public partial class HomepageUser : Form
     {
-        public string fileDataPathBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+        public string fileDataPathBarang = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
 
         public HomepageUser()
         {
@@ -29,7 +29,7 @@ namespace View
 
             foreach (var hp in daftarHp)
             {
-                dataGridView1.Rows.Add(hp.KodeBarang, hp.NamaBarang, hp.JumlahBarang, hp.HargaBarang);
+                dataGridView1.Rows.Add(hp.NamaBarang, hp.KodeBarang, hp.JumlahBarang, hp.HargaBarang);
             }
         }
 

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fauzan\\.nuget\\packages\\": {}
+    "C:\\Users\\N4NRC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Main.csproj",
+      "projectUniqueName": "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Main.csproj",
       "projectName": "Main",
-      "projectPath": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Main.csproj",
-      "packagesPath": "C:\\Users\\fauzan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\obj\\",
+      "projectPath": "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Main.csproj",
+      "packagesPath": "C:\\Users\\N4NRC\\.nuget\\packages\\",
+      "outputPath": "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fauzan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\N4NRC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

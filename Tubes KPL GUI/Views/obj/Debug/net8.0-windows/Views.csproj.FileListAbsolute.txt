@@ -29,3 +29,34 @@ C:\Users\fauzan\Documents\FILE SEM 4\KPL\tubes amisa\Tubes KPL GUI\Views\obj\Deb
 C:\Users\fauzan\Documents\FILE SEM 4\KPL\tubes amisa\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.genruntimeconfig.cache
 C:\Users\fauzan\Documents\FILE SEM 4\KPL\tubes amisa\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\ref\Views.dll
 C:\Users\fauzan\Documents\FILE SEM 4\KPL\tubes amisa\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\View.HomepageUser.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Main.deps.json
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Main.runtimeconfig.json
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Main.exe
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Views.exe
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Views.deps.json
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Views.runtimeconfig.json
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Views.dll
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Views.pdb
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Main.dll
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\bin\Debug\net8.0-windows\Main.pdb
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.csproj.AssemblyReference.cache
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.AddHp.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.CariHp.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.DeleteHp.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.Homepage.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\View.HomepageUser.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.Login.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.Register.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.TabelHp.resources
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.csproj.GenerateResource.cache
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.AssemblyInfoInputs.cache
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.AssemblyInfo.cs
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.csproj.CoreCompileInputs.cache
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.sourcelink.json
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.csproj.Up2Date
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.dll
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\refint\Views.dll
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.pdb
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\Views.genruntimeconfig.cache
+D:\Tubes GUI KPL\V3\Tubes KPL GUI\Views\obj\Debug\net8.0-windows\ref\Views.dll

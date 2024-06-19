@@ -32,14 +32,12 @@ namespace Views
             {
                 namaBarangDisplay.Text = found.NamaBarang;
                 kodeBarangDisplay.Text = found.KodeBarang.ToString();
-                stokBarangDisplay.Text = found.KodeBarang.ToString();
+                stokBarangDisplay.Text = found.JumlahBarang.ToString();
                 hargaBarangDisplay.Text = found.HargaBarang.ToString();
-
             }
             else
             {
                 MessageBox.Show("Barang Tidak Ditemukan");
-
             }
         }
 
@@ -47,9 +45,10 @@ namespace Views
         {
             this.Dispose();
         }
+
         public List<Hp> ReadJSON()
         {
-            string filePathDataBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataBarang = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             List<Hp> DataBarang = new List<Hp>();
             try
             {
@@ -61,10 +60,9 @@ namespace Views
                 Console.WriteLine("Error: " + e.Message);
             }
             return DataBarang;
-
-
         }
-        private Hp cariBarang(List<Hp> DataBarang, String namaBarang)
+
+        private Hp cariBarang(List<Hp> DataBarang, string namaBarang)
         {
             for (int i = 0; i < DataBarang.Count; i++)
             {
@@ -74,7 +72,6 @@ namespace Views
                 }
             }
             return null;
-
         }
 
         private void namaBarangInput_TextChanged(object sender, EventArgs e)
