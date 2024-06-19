@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|c:\\users\\fauzan\\documents\\file sem 4\\kpl\\tubes amisa\\tubes kpl gui\\views\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\homepageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +27,12 @@
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\data\\datahp.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|c:\\users\\fauzan\\documents\\file sem 4\\kpl\\tubes amisa\\tubes kpl gui\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\data\\dataakun.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -87,11 +87,11 @@
       "RelativeMoniker": "D:0:0:{0E8D8D18-604B-4D91-BAC9-059677D6733F}|Main\\Main.csproj|solutionrelative:main\\model\\akun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|c:\\users\\fauzan\\documents\\file sem 4\\kpl\\tubes amisa\\tubes kpl gui\\views\\carihp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\carihp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\carihp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|c:\\users\\fauzan\\documents\\file sem 4\\kpl\\tubes amisa\\tubes kpl gui\\views\\addhp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\views\\addhp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9503B7A-60B2-4463-94B9-2DD5048F7196}|Views\\Views.csproj|solutionrelative:views\\addhp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -135,32 +135,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dataHp.json",
-              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json",
-              "RelativeDocumentMoniker": "Main\\Data\\dataHp.json",
-              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json",
-              "RelativeToolTip": "Main\\Data\\dataHp.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T06:10:15.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddHp.cs",
-              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\AddHp.cs",
-              "RelativeDocumentMoniker": "Views\\AddHp.cs",
-              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\AddHp.cs",
-              "RelativeToolTip": "Views\\AddHp.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAuwEsAAACLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:35:05.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "HomepageUser.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\HomepageUser.cs",
               "RelativeDocumentMoniker": "Views\\HomepageUser.cs",
@@ -172,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomepageUser.cs",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\HomepageUser.cs",
               "RelativeDocumentMoniker": "Views\\HomepageUser.cs",
@@ -185,32 +159,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Homepage.cs",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Homepage.cs",
               "RelativeDocumentMoniker": "Views\\Homepage.cs",
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Homepage.cs",
               "RelativeToolTip": "Views\\Homepage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T12:16:55.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs",
               "RelativeDocumentMoniker": "Views\\Login.cs",
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs [Design]",
               "RelativeToolTip": "Views\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:55:02.799Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T06:55:02.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "dataAkun.json",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataAkun.json",
               "RelativeDocumentMoniker": "Main\\Data\\dataAkun.json",
@@ -218,38 +191,11 @@
               "RelativeToolTip": "Main\\Data\\dataAkun.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-18T06:09:23.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:09:23.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Program.cs",
-              "RelativeDocumentMoniker": "Views\\Program.cs",
-              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Program.cs",
-              "RelativeToolTip": "Views\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:02:12.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs",
-              "RelativeDocumentMoniker": "Views\\Login.cs",
-              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs",
-              "RelativeToolTip": "Views\\Login.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAkwB4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:59:14.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Homepage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Homepage.cs",
               "RelativeDocumentMoniker": "Views\\Homepage.cs",
@@ -261,6 +207,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddHp.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\AddHp.cs",
+              "RelativeDocumentMoniker": "Views\\AddHp.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\AddHp.cs",
+              "RelativeToolTip": "Views\\AddHp.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwEsAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T07:35:05.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dataHp.json",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json",
+              "RelativeDocumentMoniker": "Main\\Data\\dataHp.json",
+              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json",
+              "RelativeToolTip": "Main\\Data\\dataHp.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T06:10:15.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Program.cs",
+              "RelativeDocumentMoniker": "Views\\Program.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Program.cs",
+              "RelativeToolTip": "Views\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:02:12.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "Views\\Login.cs",
+              "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Login.cs",
+              "RelativeToolTip": "Views\\Login.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:59:14.833Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Register.cs",
@@ -268,8 +262,7 @@
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\Register.cs [Design]",
               "RelativeToolTip": "Views\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:03:57.293Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T07:03:57.293Z"
             },
             {
               "$type": "Document",
@@ -281,8 +274,7 @@
               "RelativeToolTip": "Views\\TabelHp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:47:02.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:47:02.853Z"
             },
             {
               "$type": "Document",
@@ -293,8 +285,7 @@
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\TabelHp.cs [Design]",
               "RelativeToolTip": "Views\\TabelHp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:44:41.59Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T08:44:41.59Z"
             },
             {
               "$type": "Document",
@@ -306,8 +297,7 @@
               "RelativeToolTip": "Views\\Register.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAACLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:04:14.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T07:04:14.377Z"
             },
             {
               "$type": "Document",
@@ -319,8 +309,7 @@
               "RelativeToolTip": "Views\\DeleteHp.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAgwEcAAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:38:33.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T07:38:33.017Z"
             },
             {
               "$type": "Document",
@@ -331,8 +320,7 @@
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\DeleteHp.cs [Design]",
               "RelativeToolTip": "Views\\DeleteHp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:38:14.429Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T07:38:14.429Z"
             },
             {
               "$type": "Document",
@@ -344,8 +332,7 @@
               "RelativeToolTip": "Views\\CariHp.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAQwDMAAACGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:29:11.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T08:29:11.735Z"
             },
             {
               "$type": "Document",
@@ -356,8 +343,7 @@
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\CariHp.cs [Design]",
               "RelativeToolTip": "Views\\CariHp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T08:24:49.822Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T08:24:49.822Z"
             },
             {
               "$type": "Document",
@@ -368,8 +354,7 @@
               "ToolTip": "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Views\\AddHp.cs [Design]",
               "RelativeToolTip": "Views\\AddHp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T07:34:42.037Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-18T07:34:42.037Z"
             },
             {
               "$type": "Document",
@@ -381,8 +366,7 @@
               "RelativeToolTip": "Main\\Model\\Hp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:05:42.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:05:42.809Z"
             },
             {
               "$type": "Document",
@@ -394,8 +378,7 @@
               "RelativeToolTip": "Main\\Model\\Akun.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:05:32.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:05:32.256Z"
             },
             {
               "$type": "Document",
@@ -407,8 +390,7 @@
               "RelativeToolTip": "Views\\CariHp.Designer.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:43:39.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:43:39.272Z"
             },
             {
               "$type": "Document",
@@ -420,8 +402,7 @@
               "RelativeToolTip": "Views\\AddHp.Designer.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwBYAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T12:43:29.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T12:43:29.619Z"
             },
             {
               "$type": "Document",
@@ -433,8 +414,7 @@
               "RelativeToolTip": "Main\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:04:41.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T06:04:41.665Z"
             },
             {
               "$type": "Document",
