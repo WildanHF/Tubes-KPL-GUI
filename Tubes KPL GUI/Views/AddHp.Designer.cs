@@ -135,6 +135,7 @@
             inputNamaBarang.Name = "inputNamaBarang";
             inputNamaBarang.Size = new Size(248, 27);
             inputNamaBarang.TabIndex = 33;
+            inputNamaBarang.TextChanged += inputNamaBarang_TextChanged;
             // 
             // AddHp
             // 

@@ -9,6 +9,7 @@ using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using View;
 using static System.Windows.Forms.DataFormats;
 
 namespace Views
@@ -67,7 +68,7 @@ namespace Views
 
         public List<Akun> ReadJSON()
         {
-            string filePathDataAkun = "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
             List<Akun> dataAkun = new List<Akun>();
             try
             {
@@ -83,7 +84,7 @@ namespace Views
         }
         private void WriteJSON(List<Akun> newDataBarang)
         {
-            string filePathDataAkun = "C:\\Users\\nabiel\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
+            string filePathDataAkun = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataAkun.json";
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true
@@ -103,6 +104,11 @@ namespace Views
                 }
             }
             return null;
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

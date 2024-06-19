@@ -14,7 +14,7 @@ namespace Views
 {
     public partial class TabelHp : Form
     {
-        public string fileDataPathBarang = "D:\\GUI-KPL\\Main\\Data\\dataBarang.json";
+        public string fileDataPathBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
 
         public TabelHp()
         {

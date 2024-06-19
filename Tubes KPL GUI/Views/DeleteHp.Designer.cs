@@ -80,6 +80,7 @@
             inputNamaBarang.Name = "inputNamaBarang";
             inputNamaBarang.Size = new Size(452, 27);
             inputNamaBarang.TabIndex = 15;
+            inputNamaBarang.TextChanged += inputNamaBarang_TextChanged;
             // 
             // DeleteHp
             // 

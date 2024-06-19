@@ -49,7 +49,7 @@ namespace Views
         }
         public List<Hp> ReadJSON()
         {
-            string filePathDataBarang = "D:\\GUI-KPL\\Main\\Data\\dataBarang.json";
+            string filePathDataBarang = "C:\\Users\\fauzan\\Documents\\FILE SEM 4\\KPL\\tubes amisa\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             List<Hp> DataBarang = new List<Hp>();
             try
             {
@@ -74,6 +74,11 @@ namespace Views
                 }
             }
             return null;
+
+        }
+
+        private void namaBarangInput_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
