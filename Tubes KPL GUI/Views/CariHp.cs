@@ -48,7 +48,7 @@ namespace Views
 
         public List<Hp> ReadJSON()
         {
-            string filePathDataBarang = "D:\\Tubes GUI KPL\\V3\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
+            string filePathDataBarang = "C:\\Users\\Wildan\\Source\\Repos\\Tubes-KPL-GUI\\Tubes KPL GUI\\Main\\Data\\dataHp.json";
             List<Hp> DataBarang = new List<Hp>();
             try
             {
